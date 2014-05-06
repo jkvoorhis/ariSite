@@ -20,3 +20,6 @@ body {
 .carousel-inner .item > img {
   width: 100%;
   height: 500px; }
+
+.gallery {
+  padding: 15px; }
